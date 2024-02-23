@@ -147,7 +147,7 @@ API 設計遵循 RESTful 原則，提供清晰和一致的端點用於廣告的�
 - Path：http://localhost:8080/api/v1/ad
 - Total Request：100*30
 > **測試結果：通過**
-![image](https://hackmd.io/_uploads/rkKBJBx26.png)
+![image](image.png)
 
 
 ## Unit Test
